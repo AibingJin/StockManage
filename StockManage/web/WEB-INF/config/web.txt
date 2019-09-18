@@ -1,0 +1,6 @@
+jdbcUrl = jdbc:mysql://localhost/stockmanage?characterEncoding=utf8
+username = root
+password = root
+
+devMode=false
+showSql=false
